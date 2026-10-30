@@ -1,0 +1,6 @@
+[submodule "submodules/neorv32_mercury2"]
+	path = submodules/neorv32_mercury2
+	url = https://github.com/GNAT-Academic-Program/neorv32_mercury2.git
+[submodule "submodules/qolink"]
+	path = submodules/qolink
+	url = https://github.com/P174-QOLINK/qolink.git
